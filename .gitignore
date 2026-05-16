@@ -2,3 +2,9 @@
 .vscode
 .DS_Store
 
+
+# mdBook build output
+book/
+
+# OS files
+Thumbs.db
